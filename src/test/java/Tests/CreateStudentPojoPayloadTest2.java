@@ -38,8 +38,9 @@ public class CreateStudentPojoPayloadTest2 extends Testbase {
                 .post()
                 .then()
                 .statusCode(201).log().all().toString();
-//Deneme 2
-        //uyuy
+//Deneme 2 tt6t6t6t
+        //uyuy 989898
+        
         System.out.println(str);
     }
 }
